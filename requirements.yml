@@ -11,9 +11,9 @@ Javascript:
             DOM model, querySelector, how to build dom (InnherHTML vs createElement), browser events, form validation
         - Async JS: <|
             EventLoop, Macro & Micro tasks, Promises, Async/Await
-        - Crossbrowsing <|
+        - Crossbrowsing: <|
             Polyfills, Babel.js  
-        - Node and npm <|
+        - Node and npm: <|
             Package.json parameters, shrinkwrap
     Computer Science:
         - JS patterns
@@ -34,8 +34,8 @@ Testing:
         - Logging
         - Linting (eslint, jshint, etc)
         - Reporting (allure, html-reporter, etc)
-        - WebdriverIO (or NightWatchJS) <|
+        - WebdriverIO (or NightWatchJS): <|
           Advantages of usage, project structure, mocha/jasmine/cucumber usage, run in cloud (Saucelabs, Browserstack), crossbrowser testing (polyffils)
-        - Cypress <|
+        - Cypress: <|
         Advantages of usage, project structure.
         - TestCafee, Puppeteer - as alternative
